@@ -1,0 +1,6 @@
+The temporary repo to show the error in Grails GORM.
+
+Please publish the GrailsGormHibernate5Plugin before assembling that project
+The error will appear after any build
+
+$ gradle clean assemble
