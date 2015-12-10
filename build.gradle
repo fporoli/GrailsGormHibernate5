@@ -74,6 +74,8 @@ dependencies {
     compile "org.hibernate:hibernate-ehcache:$hibernateVersion"
     compile "org.grails.plugins:scaffolding"
 
+    compile "org.grails.plugins:GrailsGormHibernate5Plugin:0.1-SNAPSHOT"
+
     runtime "org.grails.plugins:asset-pipeline"
 
     testCompile "org.grails:grails-plugin-testing"
